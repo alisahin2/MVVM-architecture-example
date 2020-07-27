@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475338531924",
+    "firebase_url": "https://randevuuygulamasi-69e63.firebaseio.com",
+    "project_id": "randevuuygulamasi-69e63",
+    "storage_bucket": "randevuuygulamasi-69e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475338531924:android:618ca9598f42e040a6b9c1",
+        "android_client_info": {
+          "package_name": "com.example.randevuuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475338531924-v6h4sfip160mfr7839gjmntdqtikgq8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.randevuuygulamasi",
+            "certificate_hash": "546bfa4d2c19382cdeb622e1cf8e67ae9d06096b"
+          }
+        },
+        {
+          "client_id": "475338531924-s8cn7662tp4dasnr7g56ljnpgi1spigb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8vKih2SKXl6w8iMJ1ApsrP1BqYHclJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475338531924-s8cn7662tp4dasnr7g56ljnpgi1spigb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
